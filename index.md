@@ -7,3 +7,5 @@ layout: page
 
 
 Home Content here!
+
+[Connect](/assets/connect2.png)
