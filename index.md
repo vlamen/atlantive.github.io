@@ -8,4 +8,4 @@ layout: page
 
 Home Content here!
 
-![Connect](/assets/connect2.png)
+![Connect](/assets/central2.png)
