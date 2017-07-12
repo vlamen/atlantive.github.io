@@ -5,7 +5,7 @@
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
     <a class="site-title" href="{{ "/" | relative_url }}">
-      <img id="atl-logo.png" alt="logo" data-type="image"  src="assets/atl-logo.png" style="width: 268px; height: 80px; object-fit: cover;">
+      <img id="atl-logo.png" alt="logo" data-type="image"  src="/assets/atl-logo.png" style="width: 268px; height: 80px; object-fit: cover;">
     </a>
   
     {% if page_paths %}
