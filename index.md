@@ -32,7 +32,7 @@ We believe in better, faster.  Atlantive is an app, we live in the cloud and we 
 
 **Learning** - Remove the guesswork and understand the true impact and patterns of your ideas on your organisation and its data, help create new, impactful ideas that can measurably move the needle
 
-![Connect](/assets/dashboard3.png)
+![Connect](/assets/deeplearning.png)
 
 **HOW DOES ATLANTIVE WORK?**
 
