@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Atlantive Terms of Service
+title: Terms of Service
 permalink: /tos/
 ---
 
