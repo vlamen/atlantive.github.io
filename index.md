@@ -6,7 +6,7 @@ layout: page
 ---
 
 
-**Deliver Better, Faster with the Atlantive Cloud**
+**Deliver Better, Faster with Atlantive**
 
 People are your greatest asset, Atlantive harnesses their ideas and your data to deliver great outcomes.
 
@@ -20,7 +20,7 @@ Your organization is full of great people and their ideas; you have data and met
 
 We believe in better, faster.  Atlantive is an app, we live in the cloud and we take business and IT agility to the next level.  With Atlantive you don’t miss a beat, you keep what is key to succeed and you get to success fast.  We do what we say, we learn, we get better, faster.
 
-**ATLANTIVE BENEFITS**
+**WHY USE ATLANTIVE - THE BENEFITS**
 
 **One central location for ideas across your organisation** - no more duplication, no more missed opportunities and no more re-inventing the wheel
 
