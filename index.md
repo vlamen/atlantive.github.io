@@ -20,6 +20,8 @@ Your organization is full of great people and their ideas; you have data and met
 
 We believe in better, faster.  Atlantive is an app, we live in the cloud and we take business and IT agility to the next level.  With Atlantive you don’t miss a beat, you keep what is key to succeed and you get to success fast.  We do what we say, we learn, we get better, faster.
 
+![Connect](/assets/central2.png) 
+
 **WHY USE ATLANTIVE - THE BENEFITS**
 
 **One central location for ideas across your organisation** - no more duplication, no more missed opportunities and no more re-inventing the wheel
