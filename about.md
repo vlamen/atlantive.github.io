@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-About stuff
+About stuff on atlantive
