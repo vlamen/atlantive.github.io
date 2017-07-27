@@ -12,7 +12,7 @@ People are your greatest asset, Atlantive harnesses their ideas and your data to
 
 ![Connect](/assets/central2.png) 
 
-**WHAT IS ATLANTIVE?**
+**What is Atlantive?**
 
 Get connected and stay connected. Atlantive speeds up idea to outcome, engaging teams and bridging the gap between your ideas, data, people, metrics and outcomes. 
 
@@ -22,7 +22,7 @@ We believe in better, faster.  Atlantive is an app, we live in the cloud and we 
 
 ![Connect](/assets/dashboard3.png) 
 
-**WHY USE ATLANTIVE - THE BENEFITS**
+**Why use Atlantive? The benefits explained**
 
 **One central location for ideas across your organisation** - no more duplication, no more missed opportunities and no more re-inventing the wheel
 
@@ -34,21 +34,19 @@ We believe in better, faster.  Atlantive is an app, we live in the cloud and we 
 
 ![Connect](/assets/deeplearning.png)
 
-**HOW DOES ATLANTIVE WORK?**
+**How does Atlantive work?**
 
 Atlantive simplifies your enterprise with a simple, intuitive interface to capture your ideas, supporting data and outcomes, immediately saving time and removing use of disparate systems and endless effort searching for data and people. In the future, machine intelligence will be your smart assistant, learning from your outcomes, recommending ideas and identifying the relationships that exist within, amongst and between your ideas, data and outcomes.  
 
 Atlantive has been designed by the brightest in deep learning technology and delivered with a secure cloud service for enterprise grade users and subscriptions.  Atlantive integrates with your favourite collaboration and delivery tools creating a seamless idea build and learn lifecycle.
 
-Utilise AWS cloud infrastructure enabling regional deployments for data residency demands 
+**Born in the Cloud** - AWS cloud infrastructure for Enterprise level security
 
-Enterprise level security
+**The Cloud your Way** - Multi-Tenant with regional data storage capability, always be on the latest version of the application but run to support your data location needs
 
-Multi-Tenant with regional data storage capability
+**Boost Productivity** - Integrate with your favourite tools.  Collaborate with colleagues via Slack, go agile with Trello and kickstart your buils with Jira initiatives.
 
-Boost productivity by integrating with your favourite tools.  Collaborate with colleagues via Slack, go agile with Trello and kickstart your buils with Jira initiatives.
-
-Machine learning with continuous evaluation of your outcomes and their impact to your data.  Understand relationships between your ideas and their organisational impact.
+**Get Smarter** - Machine learning with continuous evaluation of your outcomes and their impact to your data.  Understand relationships between your ideas and their organisational impact.
 
 
 
