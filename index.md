@@ -20,7 +20,7 @@ Your organization is full of great people and their ideas; you have data and met
 
 We believe in better, faster.  Atlantive is an app, we live in the cloud and we take business and IT agility to the next level.  With Atlantive you don’t miss a beat, you keep what is key to succeed and you get to success fast.  We do what we say, we learn, we get better, faster.
 
-![Connect](/assets/central2.png) 
+![Connect](/assets/dashboard3.png) 
 
 **WHY USE ATLANTIVE - THE BENEFITS**
 
@@ -31,6 +31,8 @@ We believe in better, faster.  Atlantive is an app, we live in the cloud and we 
 **Build a collaborative network** - connect people with ideas and data, stay informed of opportunities via the latest collaboration tools like Slack and Trello
 
 **Learning** - Remove the guesswork and understand the true impact and patterns of your ideas on your organisation and its data, help create new, impactful ideas that can measurably move the needle
+
+![Connect](/assets/dashboard3.png)
 
 **HOW DOES ATLANTIVE WORK?**
 
