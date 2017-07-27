@@ -28,6 +28,6 @@ We believe in better, faster.  Atlantive is an app, we live in the cloud and we 
 
 **Build a collaborative network** - connect people with ideas and data, stay informed of opportunities via the latest collaboration tools like Slack and Trello
 
-**Learning** - Remove the guesswork and understand the true impact and patterns of your ideas on your organisation and its data, help create new impactful ideas that can really, measurably move the needle
+**Learning** - Remove the guesswork and understand the true impact and patterns of your ideas on your organisation and its data, help create new, impactful ideas that can measurably move the needle
 
 
