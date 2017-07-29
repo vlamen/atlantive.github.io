@@ -24,11 +24,13 @@ This Privacy Policy applies to the information that we obtain through your use o
 	
 but does not include:
 
-	•	Atlantive products or services for which a separate privacy policy is provided.
-	•	Third Party Products. These are third party products or services that you may choose to integrate with
-	        Atlantive product or services, such as third party collaboration services.  You should always review 
-		the policies of third party products and services to make sure you are comfortable with the ways in 
-		which they collect and use your information.
+	•	Atlantive products or services for which a separate privacy policy is 
+	        provided.
+	•	Third Party Products. These are third party products or services that you 
+	        may choose to integrate with Atlantive product or services, such as third 
+		party collaboration services.  You should always review the policies of 
+		third party products and services to make sure you are comfortable with the 
+		ways in which they collect and use your information.
 	
 A "Device" is any computer used to access the Atlantive Cloud Services, including without limitation a desktop, laptop, mobile phone, tablet, or other consumer electronic device.  By registering for or using Atlantive Cloud Services you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy.
 
@@ -93,33 +95,35 @@ _Information from third party services_: We also obtain information from third p
 _General Uses_: We use the Information we collect about you (including Personal Information to the extent applicable) for a variety of purposes, including to:
 
 	•	Provide, operate, maintain, improve and promote Atlantive Cloud Services;
-	•	Enable you to access and use Atlantive Cloud Services, including uploading, 
-	        downloading, collaborating on and sharing Content;
+	•	Enable you to access and use Atlantive Cloud Services, including 
+	        uploading, downloading, collaborating on and sharing Content;
 	•	Process and complete transactions, and send you related information, 
 	        including purchase confirmations and invoices;
-	•	Send transactional messages, including responding to your comments, questions, 
-	        and requests; providing customer service and support; and sending you technical 
-		notices, updates, security alerts, and support and administrative messages;
-	•	Send promotional communications, such as providing you with information about services, 
-	        features, surveys, newsletters, offers, promotions, contests, events; and providing other news 
-		or information about us and our select partners. You have the ability to opt out of receiving 
-		any of these communications as described below under "Your Choices";
+	•	Send transactional messages, including responding to your comments, 
+	        questions and requests; providing customer service and support; and 
+		sending you technical notices, updates, security alerts, and support and 
+		administrative messages;
+	•	Send promotional communications, such as providing you with information 
+	        about services, features, surveys, newsletters, offers, promotions, 
+		contests, events; and providing other news or information about us and our 
+		select partners. You have the ability to opt out of receiving any of these 
+		communications as described below under "Your Choices";
 	•	Process and deliver contest or sweepstakes entries and rewards;
-	•	Monitor and analyze trends, usage, and activities in connection with Atlantive Cloud Services 
-	        and for marketing or advertising purposes;
-	•	Investigate and prevent fraudulent transactions, unauthorized access to Atlantive Cloud Services, 
-	        and other illegal activities;
-	•	Personalize Atlantive Cloud Services, including by providing content, features, or advertisements 
-	        that match your interests and preferences;
-	•	Enable you to communicate, collaborate, and share Content with users in your organisations Cloud 
-	        Services domain; and
+	•	Monitor and analyze trends, usage, and activities in connection with 
+	        Atlantive Cloud Services and for marketing or advertising purposes;
+	•	Investigate and prevent fraudulent transactions, unauthorized access to 
+	        Atlantive Cloud Services and other illegal activities;
+	•	Personalize Atlantive Cloud Services, including by providing content, 
+	        features, or advertisements that match your interests and preferences;
+	•	Enable you to communicate, collaborate, and share Content with users in 
+	        your organisations Cloud Services domain; and
 	•	For other purposes about which we obtain your consent.
 	
 Notwithstanding the foregoing, we will not use Personal Information appearing in our Analytics Logs or Web Logs for any purpose. The use of Information collected through our Atlantive Cloud Services shall be limited to the purposes disclosed in this policy.
 
 Compiling aggregate analytics information: We make extensive use of analytics information (including log and configuration data) to understand how our products are being used, how they can be improved for the benefit of all of our users, and to develop new Cloud Services. As such we generate Usage Data (as defined above) from the web logs and analytics logs described above, including the Content elements captured in such logs, as well as from the Content stored in the Websites and SaaS Cloud Services.
 
-Information sharing and disclosure
+**_Information sharing and disclosure_**
 
 We will not share or disclose any of your Personal Information or Content with third parties except as described in this policy. We do not sell your Personal Information or Content.
 
@@ -130,9 +134,13 @@ _Collaboration_: As a natural result of using Atlantive Cloud Services, you crea
 Access by your system administrator: You should be aware that the administrator of your instance of Atlantive Services may be able to:
 
 	•	access information in and about your Atlantive Cloud Services account;
-	•	access communications history, including file attachments, for your Atlantive Services account;
-	•	disclose, restrict, or access information that you have provided or that is made available to you when using your Atlantive Cloud Services account, including your Content; and
-	•	control how your Atlantive Cloud Services account may be accessed or deleted.
+	•	access communications history, including file attachments, for your 
+	        Atlantive Services account;
+	•	disclose, restrict, or access information that you have provided or 
+	        that is made available to you when using your Atlantive Cloud Services 
+		account, including your Content; and
+	•	control how your Atlantive Cloud Services account may be accessed or 
+	        deleted.
 
 _Service Providers, Business Partners and Others_: We work with third party service providers to provide website, application development, hosting, maintenance, back-up, storage, virtual infrastructure, payment processing, analysis and other services for us. These service providers may have access to or process your Information for the purpose of providing those services for us.  Please be aware that you are providing your Information to these third parties acting on behalf of Atlantive.
 
