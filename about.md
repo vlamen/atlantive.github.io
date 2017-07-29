@@ -13,8 +13,13 @@ Simply fill out your details below and we will be in touch.
 All the best, 
 
 The Team at AtlantiveHQ. 
-
-<form method="POST" action="http://formspree.io/atlantivehq@atlantive.com">
+<form action="https://formspree.io/atlantivehq@atlantive.com"
+      method="POST">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
+</form>
+<form action="http://formspree.io/atlantivehq@atlantive.com" method="POST">
   <input type="email" name="email" placeholder="Your email">
   
   <textarea name="message" placeholder="Your message"></textarea>
