@@ -15,14 +15,10 @@ All the best,
 The Team at AtlantiveHQ. 
 <form action="https://formspree.io/atlantivehq@atlantive.com"
       method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
+    <input type="text" name="name" placeholder="Your name">
+    
+    <input type="email" name="_replyto" placeholder="Your email address">
+    
     <input type="submit" value="Send">
 </form>
-<form action="http://formspree.io/atlantivehq@atlantive.com" method="POST">
-  <input type="email" name="email" placeholder="Your email">
-  
-  <textarea name="message" placeholder="Your message"></textarea>
-  
-  <button type="submit">Send</button>
-</form>
+
