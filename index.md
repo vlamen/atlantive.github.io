@@ -8,7 +8,16 @@ layout: page
 
 **Deliver Better, Faster with Atlantive**
 
-People are your greatest asset, Atlantive harnesses their ideas and your data to deliver great outcomes.
+People are your greatest asset, Atlantive harnesses their ideas and your data to deliver great outcomes.  Are you ready for our MVP beta?  Simply fill in your details below and we will be in touch.
+
+<form action="https://formspree.io/atlantivehq@atlantive.com"
+      method="POST">
+    <input type="text" name="name" placeholder="Your name">
+    
+    <input type="email" name="_replyto" placeholder="Your email address">
+    
+    <input type="submit" value="Send">
+</form>
 
 ![Connect](/assets/central2.png) 
 
