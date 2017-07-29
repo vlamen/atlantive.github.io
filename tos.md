@@ -116,11 +116,11 @@ but does not include:
 
 	•	Atlantive products or services for which a separate privacy policy is 
 	        provided.
-	•	Third Party Products. These are third party products or services that you 
-	        may choose to integrate with Atlantive product or services, such as third 
-		party collaboration services.  You should always review the policies of 
-		third party products and services to make sure you are comfortable with the 
-		ways in which they collect and use your information.
+	•	Third Party Products. These are third party products or services that 
+	        you may choose to integrate with Atlantive product or services, such as
+		third party collaboration services.  You should always review the 
+		policies of third party products and services to make sure you are 
+		comfortable with the ways in which they collect and use your information.
 	
 A "Device" is any computer used to access the Atlantive Cloud Services, including without limitation a desktop, laptop, mobile phone, tablet, or other consumer electronic device.  By registering for or using Atlantive Cloud Services you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy.
 
@@ -195,9 +195,9 @@ _General Uses_: We use the Information we collect about you (including Personal 
 		administrative messages;
 	•	Send promotional communications, such as providing you with information 
 	        about services, features, surveys, newsletters, offers, promotions, 
-		contests, events; and providing other news or information about us and our 
-		select partners. You have the ability to opt out of receiving any of these 
-		communications as described below under "Your Choices";
+		contests, events; and providing other news or information about us and 
+		our select partners. You have the ability to opt out of receiving any 
+		of these communications as described below under "Your Choices";
 	•	Process and deliver contest or sweepstakes entries and rewards;
 	•	Monitor and analyze trends, usage, and activities in connection with 
 	        Atlantive Cloud Services and for marketing or advertising purposes;
